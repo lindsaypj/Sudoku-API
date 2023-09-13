@@ -11,20 +11,22 @@
 ## Milestones
 
  - Project Creation
- - Writing a Web API
+ - Writing a Web API (This repo is the API)
  - Consuming a Web API
  - Integrating Public APIs
  - Deploying to the Cloud
  
 ## Project Description
 
-This web application will allow you to play a Sudoku game from my library of
-Sudoku boards. I have always wanted to create a simple game, but I haven't 
-commited to a project. Sudoku is both simple and complex. I have a good 
-understanding of the game and I think it will be fun to develop using Spring.
-The more practical purpose of the project is to learn about REST API creation 
-and cloud deployment. The project is built using the Spring framework using 
-Spring Boot.
+This API will allow you to create a Sudoku application. I always wanted to
+create a simple game, but I haden't commited to a project. Sudoku is both
+simple and complex. I have a good understanding of the game, and it was fun to
+develop using Spring. The more practical purpose of the project is to learn
+about RESTful APIs and cloud deployment. The API is built on the Spring
+framework using Spring Boot and Java.
+
+I build a front-end application (<a href="https://github.com/lindsaypj/Sudoku-in-the-Clouds" target="_blank" rel="noopener">Sudoku In the Clouds</a>)
+that implements this API using React.js.
 
 ## API Documentation
 <a href="https://documenter.getpostman.com/view/25408576/2s935kP5eZ" target="_blank" rel="noopener">https://documenter.getpostman.com/view/25408576/2s935kP5eZ</a>
