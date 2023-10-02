@@ -39,11 +39,11 @@ which dynamically style the page. Check out their site to see the how it works!
  - <a href="http://colormind.io/bootstrap/" target="_blank" rel="noopener">Colormind Bootstrap Example</a>
  - <a href="http://colormind.io/api-access/" target="_blank" rel="noopener">Colormind API Documentation</a>
  
-## Live Cloud Deployments (Google Cloud Platform)
-
- - <a href="http://35.193.196.10:8080/" target="_blank" rel="noopener">Compute Engine</a>
- - <a href="https://20230316t122706-dot-sudoku-in-the-clouds.uc.r.appspot.com/" target="_blank" rel="noopener">App Engine</a>
- - <a href="http://34.172.250.63:8081/" target="_blank" rel="noopener">Google Kubernetes Engine (GKE)</a>
+## Cloud Deployments (Google Cloud Platform)
+Note: Deplyments are no longer live
+ - Compute Engine
+ - App Engine
+ - Google Kubernetes Engine (GKE)
  
 ## Docker Image
 https://hub.docker.com/r/lindsaypj/sudoku-in-the-clouds
